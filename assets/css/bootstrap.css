@@ -1,0 +1,28 @@
+body {
+    background: white;
+}
+header {
+    margin-bottom: 2rem;
+}
+header nav .navbar-brand {
+    font-size: 1.5rem;
+}
+footer {
+    background-color: #666;
+    height: 50px;
+    color: #fff;
+}
+.jumbotron {
+    padding: 2rem;
+    border-radius: 5px;
+    background-color: white;
+    border: 2px solid #e9ecef;
+    margin-bottom: rem;
+}
+.card-link {
+    text-decoration: none;
+    color: #000;
+}
+.card-link:hover {
+    color: #007bff;
+}
